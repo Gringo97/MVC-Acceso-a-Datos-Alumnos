@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+
+	<class name="entidades.Titulacion" table="titulaciones">
+		<id name="cod" type="int">
+			<column name="cod" />
+			<generator class="increment" />
+		</id>
+
+		<property name="nombre" type="string">
+			<column name="nombre" length="50" not-null="true" />
+		</property>
+		
+		<property name="descripcion" type="string">
+			<column name="descripcion" length="250" not-null="true" />
+		</property>
+		
+	</class>
+
+</hibernate-mapping>

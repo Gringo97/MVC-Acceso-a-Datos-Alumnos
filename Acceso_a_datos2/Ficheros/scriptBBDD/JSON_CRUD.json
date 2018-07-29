@@ -1,0 +1,104 @@
+[
+    {
+        "titulacion": "1DAMP",
+        "descripcion": "curso muy bonito",
+        "cod": 0,
+        "alumnos": [
+            {
+                "cod": 1,
+                "dni": "s552",
+                "nombre": "John",
+                "apellido": "Jon",
+                "telefono": 30345,
+                "nacionalidad": "espana",
+                "titulacionAlumno": "1DAMP"
+            },
+            {
+                "cod": 2,
+                "dni": "24rs",
+                "nombre": "Johna",
+                "apellido": "Jona",
+                "telefono": 303452,
+                "nacionalidad": "espana",
+                "titulacionAlumno": "1DAMP"
+            },
+            {
+                "cod": 3,
+                "dni": "245ws",
+                "nombre": "Jou",
+                "apellido": "Joun",
+                "telefono": 56,
+                "nacionalidad": "espana",
+                "titulacionAlumno": "1DAMP"
+            }
+        ]
+    },
+    {
+        "titulacion": "1AJEI",
+        "descripcion": "curso muy bonito",
+        "cod": 2,
+        "alumnos": [
+            {
+                "cod": 7,
+                "dni": "s54252",
+                "nombre": "rthert",
+                "apellido": "Jgergon",
+                "telefono": 30345,
+                "nacionalidad": "espana",
+                "titulacionAlumno": "1AJEI"
+            },
+            {
+                "cod": 8,
+                "dni": "24435rs",
+                "nombre": "Johnberta",
+                "apellido": "Joretberna",
+                "telefono": 303452,
+                "nacionalidad": "espana",
+                "titulacionAlumno": "1AJEI"
+            },
+            {
+                "cod": 9,
+                "dni": "24345235ws",
+                "nombre": "Jorbeu",
+                "apellido": "Jougbrn",
+                "telefono": 56,
+                "nacionalidad": "espana",
+                "titulacionAlumno": "1AJEI"
+            }
+        ]
+    },
+    {
+        "titulacion": "2DAMP",
+        "descripcion": "curso muy bonito",
+        "cod": 1,
+        "alumnos": [
+            {
+                "cod": 4,
+                "dni": "s5524356",
+                "nombre": "John",
+                "apellido": "Jon",
+                "telefono": 30345,
+                "nacionalidad": "espana",
+                "titulacionAlumno": "2DAMP"
+            },
+            {
+                "cod": 5,
+                "dni": "24rs5667",
+                "nombre": "Johna",
+                "apellido": "Jona",
+                "telefono": 303452,
+                "nacionalidad": "espana",
+                "titulacionAlumno": "2DAMP"
+            },
+            {
+                "cod": 6,
+                "dni": "245ws334",
+                "nombre": "Jou",
+                "apellido": "Joun",
+                "telefono": 56,
+                "nacionalidad": "espana",
+                "titulacionAlumno": "2DAMP"
+            }
+        ]
+    }
+]

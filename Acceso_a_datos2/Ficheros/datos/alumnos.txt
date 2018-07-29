@@ -1,0 +1,10 @@
+1,123,sergio,sergio,543234,españa,2
+2,2,a,a,543234,a,2
+3,3,a,a1,543234,a1,3
+4,4,asdf,eyas1,123451,eyas,4
+5,1234,oscar,oscar,543234,españa,2
+6,123456,ram,ram,543234,españa,2
+7,5,tay,ram,13131313,tay,5
+8,6,hola,que,6131141,tal,3
+9,2222,hola,hola,123456789,hola,1
+10,12345,tay,tay,543234,españa,2
